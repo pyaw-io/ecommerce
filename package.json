@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce website",
+  "main": "index.html",
+  "scripts": {
+    "test": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Eric",
+  "license": "ISC"
+}
